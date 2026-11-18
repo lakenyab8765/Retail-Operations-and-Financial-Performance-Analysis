@@ -1,5 +1,5 @@
 # Retail Operations & Financial Performance Dashboard
-! [Excel Dashboard Preview] (dashboard.png.png)
+![Excel Dashboard Preview](dashboard.png.png)
 ## Project Overview
 An interactive executive dashboard designed to track sales performance, profitability, and fulfillment efficiency. Built to transform raw transactional records into an automated, self-service reporting tool for leadership.
 ## Key Performance Indicators (KPIs)
